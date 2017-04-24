@@ -1,0 +1,2 @@
+# tidyuuid
+Locally ordered UUID
