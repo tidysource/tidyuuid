@@ -1,0 +1,29 @@
+{
+  "name": "tidyuuid",
+  "version": "1.0.0",
+  "description": "Locally ordered UUID",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidysource/tidyuuid.git"
+  },
+  "keywords": [
+    "UUID",
+    "ordered"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidysource/tidyuuid/issues"
+  },
+  "homepage": "https://github.com/tidysource/tidyuuid#readme",
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  }
+}
